@@ -1,0 +1,1 @@
+siteoffline - Elgg plugin to allow site administrators to take site down and configure down page with logo, message and background.
